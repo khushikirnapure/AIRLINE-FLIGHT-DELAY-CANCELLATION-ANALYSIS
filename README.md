@@ -123,6 +123,7 @@ Open the project notebook and execute the cells in order.
 ## 👩‍💻 Author
 
 **Khushi Kirnapure**
+**Gauri Gadewar**
 
 Computer Science and Engineering (AI & Data Science)
 
